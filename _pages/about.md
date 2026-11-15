@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+## Personal Details
+
 I am a first-year PhD candidate at the HKUST NLP Group. I am pursuing my Ph.D. in Computer Science at the Hong Kong University of Science and Technology (2024-Present), supervised by Professor Junxian He. I graduated from Shanghai Jiao Tong University (SJTU) in June 2024, where I completed my B.Eng. (2020-2024). My research focuses on natural language processing and machine learning.
 
 ## Academic Background
@@ -32,10 +34,13 @@ I am a first-year PhD candidate at the HKUST NLP Group. I am pursuing my Ph.D. i
 - **Research Intern**, Shanghai AI Lab, June 2023-December 2023
   - Advisor: Prof. Yu Cheng
 
-## Skills and Research Interests
+## Skills
 
 - Natural language processing
 - Machine learning
+
+## Research Interests
+
 - LLM Reasoning and Reinforcement Learning
 - Hallucination in Vision-Language Models (VLM)
 - LLM Truthfulness and Interpretability

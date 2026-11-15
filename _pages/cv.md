@@ -29,10 +29,13 @@ redirect_from:
 
 - Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
 
-## Skills and Research Interests
+## Skills
 
 - Natural language processing
 - Machine learning
+
+## Research Interests
+
 - LLM Reasoning and Reinforcement Learning
 - Hallucination in Vision-Language Models (VLM)
 - LLM Truthfulness and Interpretability
